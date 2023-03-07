@@ -1,0 +1,297 @@
+.topnav{
+    background-image: url(assests/first.png);
+    background-repeat: no-repeat;
+background-size: 1300px 550px;
+  }
+  h1{
+    color: #000b2c;
+    margin-left: 30px;
+    font-size: 100px;
+    font-family:font-family'Cormorant Garamond' ;
+  }
+  h3{
+    margin-left: 30px;
+    margin-top: -35px;
+    font-size: 33px;
+    color: red;
+  }
+  .line{
+    margin-left: 30px;
+    color: blue;
+    font-size: large;
+  }
+  pre{
+    
+    color: rgb(251, 251, 255);
+  }
+  .order{
+    margin-left: 30px;
+    font-size: large;
+padding-left: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 25px;
+background-color:  #ff4a00;
+color: white;
+border-radius: 12px;
+border-color:  #ff4a00;
+  }
+  .link{
+    color: rgb(238, 14, 14);
+  }
+  .para1{
+  background-image: url(assests/shape1.png);
+background-repeat: no-repeat;
+background-size: 650px 540px;
+ font-size: 15px;
+  margin-left: 657px;
+  margin-top:-480px;
+  
+}
+#ek{
+  margin-left: 195px;
+  margin-top: 80px;
+  font-size: 75px;
+}
+#btn{
+  margin-left: 195px;
+  font-size: large;
+  padding-left: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 25px;
+  background-color:  #ff4a00;
+  color: white;
+  border-radius: 12px;
+  border-color:  #ff4a00;
+}
+.dark{
+ 
+  margin-left: 610px;
+  margin-top:-360px ;
+}
+.front{
+  height: 200px;
+  width: 170px;
+}
+.tho{
+  margin-left: 800px;
+  margin-top: 326px;
+  font-size: 75px;
+}
+.ball{
+  margin-left: 800px;
+  font-size: large;
+padding-left: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+background-color: rgb(247, 107, 47);
+color: white;
+border-radius: 7px;
+border-color: orangered;
+}
+.para2{
+  background-image: url(assests/Shape\ 2.png);
+  background-repeat: no-repeat;
+  background-size: 737px 650px;
+  margin-top: -445px;
+  font-size: larger;
+}
+.cold{
+ 
+ margin-left: 610px;
+ margin-top:-380px ;
+}
+.middle{
+ height: 200px;
+ width: 170px;
+}
+.thee{
+font-size: 75px;
+margin-top: 200px;
+}
+.bell{
+font-size: large;
+padding-left: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+background-color: rgb(247, 107, 47);
+color: white;
+border-radius: 7px;
+border-color: orangered;
+}
+.para3{
+background-image: url(assests/Shape\ 3.png);
+background-repeat: no-repeat;
+background-size: 655px 650px;
+margin-left: 625px;
+  margin-top:-300px;
+  font-size: large;
+}
+.hot{
+ 
+ margin-left: 610px;
+ margin-top:-380px ;
+}
+.back{
+ height: 200px;
+ width: 170px;
+}
+.page3{
+margin-top: -140px;
+margin-left: 80px;
+color:white;
+font-size: 75px;
+background-image: url(assests/circle.png);
+background-repeat: no-repeat;
+background-size: 250px 250px;
+
+}
+.logo{
+height: 50px;
+width: 45px;
+margin-left: 100px;
+margin-top: 15px;
+}
+.free{
+font-size: 60px;
+margin-top: -1px;
+}
+.leafs{
+
+margin-left:270px;
+margin-top: -170px;
+}
+.leaf{
+height: 120px;
+width: 130px;
+}
+.gift{
+margin-left: 600px;
+margin-top: -330px;
+}
+.voucher{
+color: black;
+font-size: 55px;
+}
+.exp{
+color: black;
+}
+.cup{
+font-size: 35px;
+background-color: rgb(244, 148, 113);
+padding-left: 7px;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 7px;
+border-radius: 10px;
+border-color: orangered;
+}
+.secondpage{
+ margin-top: 158px;
+border-style: groove;
+border-color: blue;
+border-top-width: 1px;
+border-bottom-width: 1px;
+border-left: 0px;
+border-right: 0px;
+}
+.box{
+margin-left: 20px;
+margin-bottom: 10px;
+margin-top: 10px;
+border: 3.1px solid ;
+border-color: blue;
+border-top-width: 10px;
+border-bottom-width: 10px;
+border-right-width: 10px;
+border-left-width: 10px;
+}
+.us{
+text-align: center;
+font-size: 35px;
+}
+.p1{
+font-size: large;
+color: black;
+}
+.p2{
+ font-family: "Myriad Pro";;
+font-size: large;
+color: black;
+}
+.about{
+    background-color:floralwhite;
+}
+.review{
+ color: #000b2c;;
+text-align: center;
+font-size: 50px;
+}
+.aside{
+margin-right: 10px;
+margin-left: 10px;
+color: aliceblue;
+margin-top: -530px;
+background-image: url(assests/Rectangle.png);
+
+
+}
+.open{
+  font-family: "Myriad Pro";
+width: 450px;
+margin-left: 350px;
+background-image: url(assests/Rectangle\ \(1\).png);
+background-repeat: no-repeat;
+
+}
+.opens{
+  font-family: "Myriad Pro";
+width: 450px;
+margin-left: 350px;
+background-image: url(assests/Rectangle\ \(1\).png);
+background-repeat: no-repeat;
+}
+
+.card{
+background-image: url(assests/card.png);
+background-repeat: no-repeat;
+
+
+}
+.card-img-top{
+height: 153px;
+width: 17.5rem;
+margin-left: 7.3px;
+}
+.york{
+background-image: url(assests/Rounded\ Rectangle.png);
+background-repeat: no-repeat;
+background-size: 150px 32px;
+
+}
+.card1{
+   
+margin-left: 25px;
+margin-bottom: 10px;
+font-size: 11px;
+background-image: url(assests/new.png);
+background-repeat: no-repeat;
+background-size: 240px 255px;
+
+}
+footer{
+background-color:  #072658;
+
+}
+.contact{
+margin-left: 900px;
+margin-top: -320px;
+
+}
+.icon{
+    margin-left:900px;
+    margin-top: -60px;
+}
