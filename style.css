@@ -1,8 +1,10 @@
+/*navbar*/
 .topnav{
     background-image: url(assests/first.png);
     background-repeat: no-repeat;
 background-size: 1300px 550px;
   }
+  /*First page coffee heading*/
   h1{
     color: #000b2c;
     margin-left: 30px;
@@ -15,6 +17,7 @@ background-size: 1300px 550px;
     font-size: 33px;
     color: red;
   }
+  /*first page para*/
   .line{
     margin-left: 30px;
     color: blue;
@@ -24,6 +27,7 @@ background-size: 1300px 550px;
     
     color: rgb(251, 251, 255);
   }
+  /*First page button*/
   .order{
     margin-left: 30px;
     font-size: large;
@@ -36,6 +40,7 @@ color: white;
 border-radius: 12px;
 border-color:  #ff4a00;
   }
+  /*Dark coffee para*/
   .para1{
   background-image: url(assests/shape1.png);
 background-repeat: no-repeat;
@@ -44,14 +49,14 @@ background-size: 650px 540px;
   margin-left: 657px;
   margin-top:-480px;
   font-family: "Myriad Pro";
- 
-  
 }
+ /*Dark coffee heading*/
 #ek{
   margin-left: 195px;
   margin-top: 80px;
   font-size: 75px;
 }
+ /*Dark coffee button*/
 #btn{
   margin-left: 195px;
   font-size: large;
@@ -64,6 +69,7 @@ background-size: 650px 540px;
   border-radius: 12px;
   border-color:  #ff4a00;
 }
+ /*Dark coffee image*/
 .dark{
 
   margin-left: 610px;
@@ -77,11 +83,13 @@ background-size: 650px 540px;
   background-color: #ff4a00;
   border: 7.23px solid #ff4a00;
 }
+ /*cold coffee heading*/
 .tho{
   margin-left: 900px;
   margin-top: 326px;
   font-size: 75px;
 }
+ /*cold coffee button*/
 .ball{
   margin-left: 900px;
   font-size: large;
@@ -94,6 +102,7 @@ background-size: 650px 540px;
   border-radius: 12px;
   border-color:  #ff4a00;
 }
+ /*cold coffee para*/
 .para2{
   background-image: url(assests/Shape\ 2.png);
   background-repeat: no-repeat;
@@ -102,6 +111,7 @@ background-size: 650px 540px;
   font-size: 15px;
   font-family: "Myriad Pro";
 }
+ /*cold coffee image*/
 .cold{
 
  margin-left: 580px;
@@ -115,11 +125,13 @@ background-size: 650px 540px;
   height: 190px;
   width: 177px;
 }
+ /*Hot coffee heading*/
 .thee{
 font-size: 75px;
 margin-top: 200px;
 margin-left: 150px;
 }
+/*Hot coffee button*/
 .bell{
   margin-left: 150px;
 font-size: large;
@@ -132,6 +144,7 @@ font-size: large;
   border-radius: 12px;
   border-color:  #ff4a00;
 }
+/*Hot coffee para*/
 .para3{
 background-image: url(assests/Shape\ 3.png);
 background-repeat: no-repeat;
@@ -141,6 +154,7 @@ margin-left: 619px;
   font-size: 15px;
   font-family: "Myriad Pro";
 }
+/*Hot coffee image*/
 .hot{
  
  margin-left: 610px;
@@ -154,6 +168,7 @@ margin-left: 619px;
   height: 190px;
   width: 177px;
 }
+/*Gift voucher page*/
 .page3{
 margin-top: -140px;
 margin-left: 80px;
@@ -163,6 +178,7 @@ background-image: url(assests/circle.png);
 background-repeat: no-repeat;
 background-size: 250px 250px;
 }
+/*coffee bean logo image*/
 .logo{
 height: 50px;
 width: 45px;
@@ -173,6 +189,7 @@ margin-top: 15px;
 font-size: 60px;
 margin-top: -1px;
 }
+/*Leaf image*/
 .leafs{
 
 margin-left:270px;
@@ -182,6 +199,7 @@ margin-top: -170px;
 height: 120px;
 width: 130px;
 }
+/*Gift voucher para*/
 .gift{
 margin-left: 600px;
 margin-top: -330px;
@@ -193,6 +211,7 @@ font-size: 55px;
 .exp{
 color: black;
 }
+/*Gift voucher*/
 .cup{
 font-size: 35px;
 background-color: rgb(244, 148, 113);
@@ -217,7 +236,7 @@ margin-left: 20px;
 margin-bottom: 10px;
 margin-top: 10px;
 border: 3.1px solid ;
-border-color: blue;
+border: 3.1px solid #122341;
 border-top-width: 10px;
 border-bottom-width: 10px;
 border-right-width: 10px;
