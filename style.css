@@ -323,17 +323,15 @@ background-size: 240px 255px;
 footer{
 background-color:  #072658;
 
+
 }
 .contact{
 margin-left: 900px;
 margin-top: -320px;
 
 }
-/*Social media icon*/
-.icon{
-    margin-left:900px;
-    margin-top: -60px;
-}
+
+
 a{
   color: black;
   text-decoration: none;
@@ -341,4 +339,31 @@ a{
 /*Links*/
 a:hover{
   text-decoration: underline rgb(240, 7, 7);
+}
+/*Social media icon*/
+
+.icons{
+  margin-top: -50px;
+  height: 35px;
+}
+#twit{
+  color:  #ff4c00;
+  margin-left: 20px;
+
+  
+}
+#fb{
+  color: #ff4c00;
+  margin-left: 900px;
+}
+#insta{
+  color: #ff4c00;
+  margin-left: 20px;
+}
+#youtube{
+  color: #ff4c00;
+  margin-left: 20px;
+}
+body{
+  overflow-x: hidden;
 }
